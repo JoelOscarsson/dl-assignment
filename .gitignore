@@ -1,3 +1,9 @@
+# lessons
+material/
+Exploring_Layer_Effects.ipynb/
+Vizualizing_CNN_kernels.ipynb/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
