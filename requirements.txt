@@ -1,0 +1,10 @@
+numpy
+matplotlib
+Pillow
+pandas
+scikit-learn
+seaborn
+tensorflow
+tensorflow_hub
+visualkeras
+h5py
